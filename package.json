@@ -116,7 +116,7 @@
     "typescript": "6.0.3",
     "typescript-eslint": "8.62.1",
     "updates": "17.18.2",
-    "vitest": "4.1.9",
+    "vitest": "4.1.11",
     "vue-tsc": "3.3.6"
   }
 }
